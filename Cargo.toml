@@ -1,0 +1,8 @@
+[package]
+name = "wolfplayer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.18"
+glib = "0.18"
