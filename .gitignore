@@ -1,9 +1,4 @@
 /target
 .venv
-
-
-# Added by cargo
-#
-# already existing elements were commented out
-
-#/target
+music
+wolfplayer.db
