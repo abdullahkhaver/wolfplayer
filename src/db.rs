@@ -1,3 +1,4 @@
+// db.rs
 use rusqlite::{Connection, Result};
 use crate::ytdlp::VideoMetadata;
 
