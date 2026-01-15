@@ -1,3 +1,3 @@
-yt_dlp
-mutagen
-python-vlc
+PySide6>=6.5.0
+python-vlc>=3.0.18
+yt-dlp>=2023.10.13
